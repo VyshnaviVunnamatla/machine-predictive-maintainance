@@ -5,6 +5,7 @@ This project is a **Machine Predictive Maintenance System** built using **Stream
 
 
 
+
 ## 📂 Project Structure
 
 📂 machine-predictive-maintainance/
@@ -13,6 +14,7 @@ This project is a **Machine Predictive Maintenance System** built using **Stream
 │── 📜 requirements.txt       # Dependencies for deployment
 │── 📜 README.md              # Project documentation (this file)
 │── 📂 data/                  # (Optional) Dataset files
+
 
 
 
@@ -83,11 +85,14 @@ Make sure you have Python installed, then run:
 
 
 
+
 ## 🎯 Model Details
 
 1. The trained model is a Random Forest Classifier stored as model.joblib.
 
 2. It predicts whether the machine will fail or not based on the given input values.
+
+
 
 
 ## 🚀 Deployment on Streamlit Cloud
@@ -103,12 +108,19 @@ To deploy the app on Streamlit Community Cloud, follow these steps:
 4. Click Deploy! 🎉
 
 
+
+
 ## 🤝 Contributing
 
 Feel free to fork the repo, open issues, or submit pull requests to improve this project!
 
+
+
+
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+
 
 ### 🚀 Happy Coding & Predicting Machine Failures! 🛠️🔍
