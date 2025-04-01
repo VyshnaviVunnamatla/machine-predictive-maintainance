@@ -106,7 +106,7 @@ To deploy the app on Streamlit Community Cloud, follow these steps:
 
 1. Push your code to a public GitHub repository.
 
-2. Go to https://share.streamlit.io/.
+2. Go to **Streamlit cloud** - https://share.streamlit.io/.
 
 3. Click "New App", select your repo, and set app.py as the main file.
 
