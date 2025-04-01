@@ -9,10 +9,15 @@ This project is a **Machine Predictive Maintenance System** built using **Stream
 ## 📂 Project Structure
 
 📂 machine-predictive-maintainance/
+
 │── 📜 app.py                # Streamlit web app for predictions
+
 │── 📜 model.joblib           # Pre-trained machine learning model
+
 │── 📜 requirements.txt       # Dependencies for deployment
+
 │── 📜 README.md              # Project documentation (this file)
+
 │── 📂 data/                  # (Optional) Dataset files
 
 
@@ -88,7 +93,7 @@ Make sure you have Python installed, then run:
 
 ## 🎯 Model Details
 
-1. The trained model is a Random Forest Classifier stored as model.joblib.
+1. The trained model is a Random Forest Classifier stored as **`model.joblib`** .
 
 2. It predicts whether the machine will fail or not based on the given input values.
 
@@ -101,7 +106,7 @@ To deploy the app on Streamlit Community Cloud, follow these steps:
 
 1. Push your code to a public GitHub repository.
 
-2. Go to Streamlit Cloud.
+2. Go to https://share.streamlit.io/.
 
 3. Click "New App", select your repo, and set app.py as the main file.
 
